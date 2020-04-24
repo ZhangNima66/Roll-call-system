@@ -1,4 +1,4 @@
-package com.company.project.core;
+package com.company.project.core.mybatis;
 
 import tk.mybatis.mapper.common.BaseMapper;
 import tk.mybatis.mapper.common.ConditionMapper;
